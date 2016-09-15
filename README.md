@@ -8,6 +8,9 @@ Version: 0.20 Beta
 - Date: 1999 (approximately)
 
 
+![ScreenShot](screenshot.gif)
+
+
 Description
 
 Simple application that lets you pick a colour and gives you the HEX and DEC codes.
