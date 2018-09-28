@@ -11,7 +11,7 @@ Version: 0.20 Beta
 ![ScreenShot](screenshot.gif)
 
 
-Description
+## Description
 
 Simple application that lets you pick a colour and gives you the HEX and DEC codes.
 
